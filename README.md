@@ -5,7 +5,7 @@
 🤩 I am interested in
 
 [![Javascript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Bash Badge](https://img.shields.io/badge/-Bash Scripting-success?style=for-the-badge&logo=gnubash&labelColor=black&logoColor=FFFFFF)](#)
+[![Bash Badge](https://img.shields.io/badge/-Bash%20Scripting-success?style=for-the-badge&logo=gnubash&labelColor=black&logoColor=FFFFFF)](#)
 
 📖 I am currently learning
 
