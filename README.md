@@ -1,6 +1,6 @@
 Hi!
 
-I am Liman. I do programming in my free time. I am a school student. I learn new skill every year. I am a anime fan also. 
+I am Liman. I do some programming in my free times. But I am always (not so) busy on studies. I just love to do works on random projects.
 
 Here are the programming languages I use:
 
@@ -11,7 +11,7 @@ Here are the programming languages I use:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-Frameworks:
+Frameworks (Web):
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
